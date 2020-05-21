@@ -14,6 +14,7 @@ The code and design was adapted from the Udemy course "The Complete React Develo
 Link: <https://www.udemy.com/course/react-2nd-edition/>
 
 Image of the application:
+
 ![image of Indecision app](./public/images/Indecision.png "Indecision app")
 
 ### Usage instruction
