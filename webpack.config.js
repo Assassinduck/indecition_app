@@ -5,6 +5,7 @@ const path = require('path');
 //entry
 module.exports = {
   entry: "./src/app.js",
+  mode: "production",
   output: {
     path: path.join(__dirname, "public"),
     filename: "bundle.js",
