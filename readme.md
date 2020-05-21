@@ -22,7 +22,7 @@ Image of the application:
 - Requirements: Node ++12.0.0 package manager
   - Link: <https://nodejs.org/>
 
-the project is currently set to compile in production mode, and you can change it to development mode in the webpack.config.js file
+the project is currently set to compile in development mode, and you can change it to production mode in the webpack.config.js file
 
 1. Download the project, either as a zip or by cloning it to your git client of choice.
 
