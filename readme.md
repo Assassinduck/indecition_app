@@ -3,7 +3,7 @@
 ## Put your life in the hands of a computer
 
 This simple web app was built with React and Scss.
-It allows the user to add items to a list and then click on a button to randomly get one of the items back displayed on a modal.
+It allows the user to add items to a list, and then click a button to randomly get one of the items back, displayed on a modal.
 
 This project uses some stateful Class-components to handle state management, and  some stateless functional components to handle the static UI of the page.
 
